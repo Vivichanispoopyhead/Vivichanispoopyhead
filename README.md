@@ -97,10 +97,13 @@
 
 <br>
 
-![Solved](https://img.shields.io/badge/Solved-250%2F3826-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+<!-- ✅ DYNAMIC — these update automatically as you solve problems -->
+![Solved](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/viraj-prashad&query=totalSolved&label=Solved&suffix=%2F3826&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white)
+![Rank](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/viraj-prashad&query=ranking&label=Global+Rank&prefix=%23&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white)
+<!-- ✏️ STATIC — update manually when these change -->
 ![Rating](https://img.shields.io/badge/Contest_Rating-1%2C584-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Rank](https://img.shields.io/badge/Global_Rank-%23640%2C769-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Top](https://img.shields.io/badge/Top-88.48%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Streak](https://img.shields.io/badge/Streak-UPDATE_ME_🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 **Easy:** 141/943 · **Medium:** 83/2054 · **Hard:** 26/931
 
@@ -108,7 +111,9 @@
 
 ### 💚 GeeksforGeeks
 
-[![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vivichan)](https://www.geeksforgeeks.org/user/vivichan)
+[![GFG Profile](https://img.shields.io/badge/View_Full_GFG_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivichan)
+
+<!-- ℹ️ GFG has no public API — no third-party widget is reliable. Badges below are your live source of truth. -->
 
 <br>
 
