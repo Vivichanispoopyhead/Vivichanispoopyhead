@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,20&height=220&section=header&text=Viraj%20Prashad&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=~/Vivichanispoopyhead&descAlignY=58&descSize=20&descColor=FFB3DE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6AC1&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Competitive+Programmer+%F0%9F%92%BB;Piano+Enjoyer+%F0%9F%8E%B9;Serial+Distro+Hopper+%F0%9F%90%A7;i+like+hacking+%F0%9F%98%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6AC1&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Competitive+Programmer+%F0%9F%92%BB;Marathon+Runner+%F0%9F%8F%83;Serial+Distro+Hopper+%F0%9F%90%A7;i+like+hacking+%F0%9F%98%88" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -44,8 +44,7 @@
 🎓 **LPU Student** — suffering productively  
 🔐 Breaking things (ethically) since forever  
 💻 Competitive programmer with questionable sleep  
-🐧 Distro hopper — yes, I **use Arch BTW**  
-🎹 Classical piano at 3am (Chopin hits different)  
+🐧 Distro hopper — yes, **I use arch btw**  
 🏃 Runs **10–20 km** for fun (I promise I'm normal)  
 🧮 Thinks math is lowkey beautiful  
 📍 Ludhiana, Punjab, India
@@ -60,7 +59,7 @@
 
 <br>
 
-> 🌸 *I'm Viraj — a CS student at LPU with a bad habit of distro-hopping and staying up way too late staring at terminal screens. I run half-marathons for fun, play Chopin at midnight, and think math puzzles are peak entertainment. Currently on a mission to break everything — legally, of course.*
+> 🌸 *I'm Viraj — a CS student at LPU with a bad habit of distro-hopping and staying up way too late staring at terminal screens. I run half-marathons for fun, think math puzzles are peak entertainment, and play classical music to touch grass without leaving my room. Currently on a mission to break everything — legally, of course.*
 
 <br>
 
@@ -77,7 +76,7 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/🧩_Total_Solved_Across_All_Platforms-864%2B-FF6AC1?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/🧩_Total_Solved_Across_All_Platforms-1252%2B-FF6AC1?style=for-the-badge)
 
 <br>
 
@@ -87,8 +86,8 @@
 | 💚 **GeeksforGeeks** | **196** `65B · 35E · 75M · 21H` | Score: **603** · Rank: **#3123** | 🔥 **130 Days** |
 | 👨‍🍳 **CodeChef** | **345** | 💎 Diamond Daily Badge | 100 Days |
 | 🔵 **CyLab / PicoCTF** | **73** | Cryptography + General Skills | — |
-| 🔥 **Coddy.tech** | 388 / 1000 | **15,204 XP** · Explorer | 🔥 **129 Days** |
-| **✨ TOTAL** | **🎯 864+** | | |
+| 🔥 **Coddy.tech** | **388** | **15,204 XP** · Explorer | 🔥 **129 Days** |
+| **✨ TOTAL** | **🎯 1252+** | | |
 
 <br>
 
@@ -109,7 +108,7 @@
 
 ### 💚 GeeksforGeeks
 
-[![GFG Stats](https://gfgstatsapi.vercel.app/vivichan?theme=dark)](https://www.geeksforgeeks.org/user/vivichan)
+[![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vivichan)](https://www.geeksforgeeks.org/user/vivichan)
 
 <br>
 
@@ -285,22 +284,16 @@
 
 ---
 
-## 🎮 Fun Facts
+## 🎮 Random Facts
 
 <div align="center">
 
-```python
-viraj = {
-    "typing_speed"  : "108 WPM at 15s — fingers faster than my brain",
-    "running"       : "10–20km per session, sometimes with no music (feral mode)",
-    "piano"         : "Classical enjoyer — Chopin at 3am is a personality",
-    "distro_count"  : "Arch, Kali, Parrot, Endeavour, Omarchy, Fedora, Ubuntu, Mint...",
-    "opinion"       : "Math is genuinely beautiful and I will die on this hill",
-    "editor_war"    : "LazyVim + VSCode — I contain multitudes",
-    "motto"         : "i like hacking",
-    "coddy_bio"     : "i like bread",  # man has priorities
-}
-```
+🏃 Runs **10–20km** in a single go — sometimes with no music (full feral mode)  
+⌨️ **108 WPM** at 15s · **134 WPM** on 10 words · 2,095 tests and counting  
+🐧 Has installed **8+ Linux distros** and still hasn't found peace  
+🧮 Thinks math is genuinely beautiful and will **die on this hill**  
+🎹 Plays classical music to touch grass without leaving the room  
+💡 Profile motto: *"i like hacking"* · Coddy bio: *"i like bread"* — man has priorities
 
 </div>
 
@@ -317,7 +310,7 @@ viraj = {
 
 <br>
 
-*Whether it's about hacking, DSA, piano, or just to say hi — feel free to reach out* 🌸
+*Whether it's about hacking, DSA, math, or just to say hi — feel free to reach out* 🌸
 
 </div>
 
