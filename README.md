@@ -44,7 +44,7 @@
 🎓 **LPU Student** — suffering productively  
 🔐 Breaking things (ethically) since forever  
 💻 Competitive programmer with questionable sleep  
-🐧 Distro hopper — yes, I **btw use Arch**  
+🐧 Distro hopper — yes, I **use Arch BTW**  
 🎹 Classical piano at 3am (Chopin hits different)  
 🏃 Runs **10–20 km** for fun (I promise I'm normal)  
 🧮 Thinks math is lowkey beautiful  
