@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="380">
+<style>
+    .art { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #ff79c6; }
+    .stat { font-family: 'Courier New', Courier, monospace; font-size: 14px; }
+    .title { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #f8f8f2; }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="10" />
+<circle cx="20" cy="25" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="25" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="25" r="6" fill="#27c93f"/>
+<text x="85" y="30" class="title">Vivichan@Arch:~$ neofetch</text>
+    <text xml:space="preserve" x="20" y="70" class="art">⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷</text>
+    <text xml:space="preserve" x="380" y="70" class="stat"><tspan fill="#ff79c6">👤 User       </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Viraj Prashad</tspan></text>
+    <text xml:space="preserve" x="20" y="92" class="art">⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇</text>
+    <text xml:space="preserve" x="380" y="92" class="stat"><tspan fill="#50fa7b">💻 Role(dream)</tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Security Engineer</tspan></text>
+    <text xml:space="preserve" x="20" y="114" class="art">⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽</text>
+    <text xml:space="preserve" x="380" y="114" class="stat"><tspan fill="#8be9fd">🎯 Focus      </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Offensive Security</tspan></text>
+    <text xml:space="preserve" x="20" y="136" class="art">⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕</text>
+    <text xml:space="preserve" x="380" y="136" class="stat"><tspan fill="#bd93f9">🛠️ Hobby      </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Opensource Contribution</tspan></text>
+    <text xml:space="preserve" x="20" y="158" class="art">⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕</text>
+    <text xml:space="preserve" x="380" y="158" class="stat"><tspan fill="#f1fa8c">🐧 Platform   </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Arch Linux(btw)</tspan></text>
+    <text xml:space="preserve" x="20" y="180" class="art">⡝⡵⠟⠈⢀⣀⣀⡀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢈⡋⠴⢿⡟⣡⡇⣿⡇⡀⢕</text>
+    <text xml:space="preserve" x="20" y="202" class="art">⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄</text>
+    <text xml:space="preserve" x="380" y="202" class="stat"><tspan fill="#ff79c6">🔥 Leetcode   </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">300+ Problems</tspan></text>
+    <text xml:space="preserve" x="20" y="224" class="art">⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕</text>
+    <text xml:space="preserve" x="380" y="224" class="stat"><tspan fill="#50fa7b">💻 GFG        </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">250+ Problems</tspan></text>
+    <text xml:space="preserve" x="20" y="246" class="art">⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿</text>
+    <text xml:space="preserve" x="380" y="246" class="stat"><tspan fill="#8be9fd">📊 CodeChef   </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">500+ Problems</tspan></text>
+    <text xml:space="preserve" x="20" y="268" class="art">⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</text>
+    <text xml:space="preserve" x="380" y="268" class="stat"><tspan fill="#bd93f9">📊 CodeForces </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">50+  Problems</tspan></text>
+    <text xml:space="preserve" x="20" y="290" class="art">⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟</text>
+    <text xml:space="preserve" x="380" y="290" class="stat"><tspan fill="#f1fa8c">🚩 PicoCTF    </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">100+ CTFs</tspan></text>
+    <text xml:space="preserve" x="20" y="312" class="art">⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠</text>
+    <text xml:space="preserve" x="380" y="312" class="stat"><tspan fill="#ff79c6">🛡️ TryHackme  </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">50+  Rooms</tspan></text>
+    <text xml:space="preserve" x="20" y="334" class="art">⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙</text>
+    <text xml:space="preserve" x="380" y="334" class="stat"><tspan fill="#50fa7b">📦 HackTheBox </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Skilled (Rank)</tspan></text>
+    <text xml:space="preserve" x="20" y="356" class="art">⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣</text>
+</svg>
