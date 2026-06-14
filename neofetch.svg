@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="380">
 <style>
     .art { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #ff79c6; }
-    .stat { font-family: 'Courier New', Courier, monospace; font-size: 14px; }
-    .title { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold; fill: #f8f8f2; }
+    .stat { font-family: 'MesloLGS NF', 'Fira Code', 'Cascadia Code', 'Ubuntu Mono', 'Consolas', monospace; font-size: 14.5px; font-weight: 700; }
+    .title { font-family: 'MesloLGS NF', 'Fira Code', 'Cascadia Code', 'Ubuntu Mono', 'Consolas', monospace; font-size: 16px; font-weight: 800; }
 </style>
 <rect width="100%" height="100%" fill="#0d1117" rx="10" />
 <circle cx="20" cy="25" r="6" fill="#ff5f56"/>
 <circle cx="40" cy="25" r="6" fill="#ffbd2e"/>
 <circle cx="60" cy="25" r="6" fill="#27c93f"/>
-<text x="85" y="30" class="title">Vivichan@Arch:~$ neofetch</text>
+<text x="85" y="30" class="title">
+    <tspan fill="#8be9fd">[</tspan><tspan fill="#50fa7b">Vivichan@arch</tspan><tspan fill="#8be9fd"> ~]</tspan><tspan fill="#f8f8f2">$ neofetch</tspan>
+</text>
     <text xml:space="preserve" x="20" y="70" class="art">⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷</text>
     <text xml:space="preserve" x="380" y="70" class="stat"><tspan fill="#ff79c6">👤 User       </tspan><tspan fill="#ff5555">❯ </tspan><tspan fill="#f8f8f2">Viraj Prashad</tspan></text>
     <text xml:space="preserve" x="20" y="92" class="art">⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇</text>
